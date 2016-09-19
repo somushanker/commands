@@ -1,3 +1,20 @@
+$ git clone link
+this will get a copy of repositry
+
+$ git status
+this will display the origin/master
+
+$git commit -m "explain the changes made"
+by this you display the short note what you changed
+
+$ git push origin HEAD
+
+$ls
+
+$ git add .
+
+
+
 $ pwd
 displays preseent working directory
 
