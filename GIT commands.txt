@@ -1,17 +1,18 @@
 $ git clone link
 this will get a copy of repositry
 
-$ git status
-this will display the origin/master
+step 1: $ git add .
 
-$git commit -m "explain the changes made"
+step 2: $git commit -m "explain the changes made"
 by this you display the short note what you changed
 
-$ git push origin HEAD
+step 3: $ git status
+this will display the origin/master
+
+step 4: $ git push origin HEAD
 
 $ls
 
-$ git add .
 
 
 
